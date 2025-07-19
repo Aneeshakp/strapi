@@ -3,7 +3,7 @@ module.exports = [
   {
     name: 'strapi::cors',
     config: {
-      origin: ['http://localhost:3000', 'http://localhost:3001'],
+      origin: ['http://localhost:3000', 'http://localhost:3001','https://ecom-9qq0k3l0a-aneesha-kps-projects.vercel.app/'],
       credentials: true,
     },
   },
